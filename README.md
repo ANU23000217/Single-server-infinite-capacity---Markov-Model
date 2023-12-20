@@ -30,7 +30,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ```
 Developed by: ANU RADHA .N
 
-RegisterNumber:  23000217
+RegisterNumber: 212223230018
 ```
 
 ```
